@@ -1,0 +1,1 @@
+NIST : est l'institut international des normes et technologie, autrement dit c'est l'institut qui a lancé les algorithms de chiffrement SHA 

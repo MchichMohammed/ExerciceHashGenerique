@@ -1,0 +1,5 @@
+Ethereum on peut dire que c'est un protocole d'échanges qui permet la création par les utilisateurs de contrats intelligent.
+ Ces contrats intelligents sont basés sur un protocole informatique permettant de vérifier ou de mettre en application un contrat mutuel.
+ Ils sont déployés et consultables publiquement dans une blockchain.
+
+
