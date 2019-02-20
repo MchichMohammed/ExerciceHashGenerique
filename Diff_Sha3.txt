@@ -1,0 +1,1 @@
+La structure est un peu (beaucoup) differente, sha3 est appelé aussi Keccak est un algo de hash compeletement different de ses predecesseurs, le sha3 keccak est plus performant , en terme de securité ils sont un peu pareils
